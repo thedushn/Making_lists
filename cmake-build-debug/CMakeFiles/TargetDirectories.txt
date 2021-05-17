@@ -1,0 +1,3 @@
+C:/Users/thedushn/CLionProjects/Making_lists/cmake-build-debug/CMakeFiles/Making_lists.dir
+C:/Users/thedushn/CLionProjects/Making_lists/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thedushn/CLionProjects/Making_lists/cmake-build-debug/CMakeFiles/rebuild_cache.dir

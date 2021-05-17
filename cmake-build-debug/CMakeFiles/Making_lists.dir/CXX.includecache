@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/thedushn/CLionProjects/Making_lists/CustomList.cpp
+CustomList.h
+C:/Users/thedushn/CLionProjects/Making_lists/CustomList.h
+
+C:/Users/thedushn/CLionProjects/Making_lists/CustomList.h
+iostream
+-
+
