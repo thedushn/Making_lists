@@ -6,11 +6,29 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/thedushn/CLionProjects/Making_lists/CustomList.cpp
-CustomList.h
-C:/Users/thedushn/CLionProjects/Making_lists/CustomList.h
+/mnt/c/Users/thedushn/CLionProjects/Making_lists/CircularList.cpp
+CircularList.h
+/mnt/c/Users/thedushn/CLionProjects/Making_lists/CircularList.h
 
-C:/Users/thedushn/CLionProjects/Making_lists/CustomList.h
+/mnt/c/Users/thedushn/CLionProjects/Making_lists/CircularList.h
 iostream
 -
+
+/mnt/c/Users/thedushn/CLionProjects/Making_lists/CustomList.h
+iostream
+-
+
+/mnt/c/Users/thedushn/CLionProjects/Making_lists/DoublyLinked.h
+iostream
+-
+
+/mnt/c/Users/thedushn/CLionProjects/Making_lists/main.cpp
+iostream
+-
+CustomList.h
+/mnt/c/Users/thedushn/CLionProjects/Making_lists/CustomList.h
+DoublyLinked.h
+/mnt/c/Users/thedushn/CLionProjects/Making_lists/DoublyLinked.h
+CircularList.h
+/mnt/c/Users/thedushn/CLionProjects/Making_lists/CircularList.h
 

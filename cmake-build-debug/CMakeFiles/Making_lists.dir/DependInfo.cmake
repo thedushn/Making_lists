@@ -4,8 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/thedushn/CLionProjects/Making_lists/CustomList.cpp" "C:/Users/thedushn/CLionProjects/Making_lists/cmake-build-debug/CMakeFiles/Making_lists.dir/CustomList.cpp.obj"
-  "C:/Users/thedushn/CLionProjects/Making_lists/main.cpp" "C:/Users/thedushn/CLionProjects/Making_lists/cmake-build-debug/CMakeFiles/Making_lists.dir/main.cpp.obj"
+  "/mnt/c/Users/thedushn/CLionProjects/Making_lists/CircularList.cpp" "/mnt/c/Users/thedushn/CLionProjects/Making_lists/cmake-build-debug/CMakeFiles/Making_lists.dir/CircularList.cpp.o"
+  "/mnt/c/Users/thedushn/CLionProjects/Making_lists/CustomList.cpp" "/mnt/c/Users/thedushn/CLionProjects/Making_lists/cmake-build-debug/CMakeFiles/Making_lists.dir/CustomList.cpp.o"
+  "/mnt/c/Users/thedushn/CLionProjects/Making_lists/DoublyLinked.cpp" "/mnt/c/Users/thedushn/CLionProjects/Making_lists/cmake-build-debug/CMakeFiles/Making_lists.dir/DoublyLinked.cpp.o"
+  "/mnt/c/Users/thedushn/CLionProjects/Making_lists/main.cpp" "/mnt/c/Users/thedushn/CLionProjects/Making_lists/cmake-build-debug/CMakeFiles/Making_lists.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

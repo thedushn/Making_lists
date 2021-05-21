@@ -1,10 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Making_lists.dir/CustomList.cpp.obj"
-  "CMakeFiles/Making_lists.dir/main.cpp.obj"
-  "Making_lists.exe"
-  "Making_lists.exe.manifest"
+  "CMakeFiles/Making_lists.dir/CircularList.cpp.o"
+  "CMakeFiles/Making_lists.dir/CustomList.cpp.o"
+  "CMakeFiles/Making_lists.dir/DoublyLinked.cpp.o"
+  "CMakeFiles/Making_lists.dir/main.cpp.o"
+  "Making_lists"
   "Making_lists.pdb"
-  "libMaking_lists.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

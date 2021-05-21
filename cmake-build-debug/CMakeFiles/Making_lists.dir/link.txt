@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Making_lists.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Making_lists.dir/objects.a @CMakeFiles\Making_lists.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Making_lists.dir/objects.a -Wl,--no-whole-archive -o Making_lists.exe -Wl,--out-implib,libMaking_lists.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Making_lists.dir\linklibs.rsp
+/usr/bin/c++  -g   CMakeFiles/Making_lists.dir/main.cpp.o CMakeFiles/Making_lists.dir/CustomList.cpp.o CMakeFiles/Making_lists.dir/DoublyLinked.cpp.o CMakeFiles/Making_lists.dir/CircularList.cpp.o  -o Making_lists 
